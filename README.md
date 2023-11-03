@@ -1,5 +1,5 @@
 # ecommerce
-
+screenshots/1. Home Page.jpg
 1) Open Terminal and activate the virtual environment. 
 
 ".\venv\Scritps\activate" - for Windows 
