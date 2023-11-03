@@ -1,6 +1,6 @@
 #Example Screenshots
 
-![image]([image link](https://github.com/saiherng/ecommerce/blob/d60efda5009fad8864d97828e94738ac6b71f664/screenshots/1.%20Home%20Page.jpg))
+![](https://github.com/saiherng/ecommerce/blob/d60efda5009fad8864d97828e94738ac6b71f664/screenshots/1.%20Home%20Page.jpg)
 
 # ecommerce
 screenshots/1. Home Page.jpg
