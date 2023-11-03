@@ -15,6 +15,8 @@ app = Flask(__name__)
 #app.register_blueprint(swaggerui_blueprint)
 
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///saiherng.db"
+
+#use environment variable later!!!!!!
 app.config["SECRET_KEY"] = "secret_key"
 
 
