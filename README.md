@@ -1,4 +1,4 @@
-#Example Screenshots inside screenshots folder
+#Developed an ecommerce app using Flask, SQLAlchemy and Bootstrap
 
 ![](https://github.com/saiherng/ecommerce/blob/d60efda5009fad8864d97828e94738ac6b71f664/screenshots/1.%20Home%20Page.jpg)
 
@@ -52,6 +52,5 @@ Process for accessing secure api route
 BUGS 
 -----------------------------------
 1 - Having a hard time trying to find solution for deleting products without affecting existing order items.
-2) Did not implement user sessions. Tried my best to focus on the crud operations.
-
+2) Did not implement user sessions.
 
