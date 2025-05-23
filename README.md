@@ -1,4 +1,4 @@
-#Developed an ecommerce app using Flask, SQLAlchemy and Bootstrap
+# Developed an ecommerce app using Flask, SQLAlchemy and Bootstrap
 
 ![](https://github.com/saiherng/ecommerce/blob/d60efda5009fad8864d97828e94738ac6b71f664/screenshots/1.%20Home%20Page.jpg)
 
